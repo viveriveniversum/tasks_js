@@ -1,3 +1,0 @@
-Remote oncesi bir yazı
-Local'deki bir satırlık değişiklik.
-Remote'da bir güncelleme yaptık.
